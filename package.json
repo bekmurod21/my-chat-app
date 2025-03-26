@@ -5,7 +5,7 @@
   "dependencies": {
     "@microsoft/signalr": "^8.0.7",
     "@tanstack/react-query": "^5.62.7",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "cra-template-typescript": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
